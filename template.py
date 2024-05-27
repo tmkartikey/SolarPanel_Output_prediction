@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 
-project_name="hap"
+project_name="solar_prediction"
 
 list_of_files=[
     f"src/{project_name}/__init__.py",
